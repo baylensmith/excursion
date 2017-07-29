@@ -15,17 +15,12 @@ h2 {
   color: white;
 }
 
-p {
+#copy p {
   color: gray;
   font-size: 21px;
 }
 
-.download {
-  font-size: 16px;
-  color: aquamarine;
-}
-
-#copyright {
+#copyright p {
   text-align: right;
   color: gray;
 }
