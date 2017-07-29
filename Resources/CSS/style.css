@@ -22,3 +22,8 @@ p {
   color: gray;
   font-size: 21px;
 }
+
+.download {
+  font-size: 16px;
+  color: aquamarine;
+}
